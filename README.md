@@ -4,9 +4,6 @@ A basic example of controlling a NeoPixel ring using an Arduino.
 
 ```csharp
 #include <Adafruit_NeoPixel.h>
-#ifdef __AVR__
-  #include <avr/power.h>
-#endif
 
 #define PIN 6
 
