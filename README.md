@@ -43,3 +43,24 @@ void loop() {
 
 }
 ```
+
+
+[View the Arduino code on Arduino Create](https://create.arduino.cc/editor/professoradam/457c1bce-ed38-41cc-b448-c60ab2faad93/preview)
+
+You will need to setup the following circuit using your Arduino:
+
+![Tinkercad Circuit](https://raw.githubusercontent.com/codeadamca/arduino-neopixel-ring/main/tinkercad-neopixel-ring.png)
+
+[View the Circuit on Tinkercad](https://www.tinkercad.com/things/aJU4HME0WBN)
+
+
+## Tutorial Requirements:
+
+* [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
+* [Arduino Create](https://create.arduino.cc/editor) 
+
+Full tutorial URL: https://codeadam.ca/learning/arduino-neopixel-ring.html
+
+<a href="https://codeadam.ca">
+<img src="https://codeadam.ca/images/code-block.png" width="100">
+</a>
