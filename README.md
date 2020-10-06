@@ -2,6 +2,10 @@
 
 A basic example of controlling a NeoPixel ring using an Arduino.
 
+## Arduino Code
+
+Open up [Arduino Create](https://create.arduino.cc/editor/) and add the following code:
+
 ```csharp
 #include <Adafruit_NeoPixel.h>
 
