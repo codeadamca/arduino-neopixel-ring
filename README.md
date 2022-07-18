@@ -1,4 +1,4 @@
-# arduino-neopixel-ring
+# Arduino and a Neopixel Ring
 
 A basic example of controlling a NeoPixel ring using an Arduino.
 
